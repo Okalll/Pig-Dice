@@ -1,4 +1,4 @@
-## Pig-dice
+## Pig-Dice
 This is a game application thst consists of two players where by they play the game of rolling a die and score points.The first player to get a hundred points is declared the winner.
 ## Created by:
 
