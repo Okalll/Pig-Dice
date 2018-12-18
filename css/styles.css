@@ -7,14 +7,12 @@ h1 {
   margin: 0;
   line-height: 0.8;
 }
-#fontchange {
+.row>p {
   font-family: 'Quicksand', cursive;
   text-align: center;
 }
-h1#top {
-  color: #black;
-  /* color: #FF99BB;
-  color: #FF6699; */
+#top {
+  color: black;
   font-size: 7em;
   text-align: center;
 }
