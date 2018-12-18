@@ -130,3 +130,7 @@ body {
 #mycurrentroll {
   text-align: center;
 }
+start-game{
+  top: auto;
+  float: right;
+}
